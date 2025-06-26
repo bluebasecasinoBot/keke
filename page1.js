@@ -113,7 +113,7 @@ __SYD.contacts_p1 = () =>{
                 "a",
                 {
                     style:"height:fit-content;width:fit-content;",
-                    href:"https://x.com/babybbycoco?s=21"
+                    href:"https://x.com/keke_ethereum"
                 },
                 [
                     __c("div" , {style:"height:70px;min-width:70px;border-radius:50%;border:4px solid #000;background-image:url(./assets/x.png);"},[],
@@ -126,7 +126,7 @@ __SYD.contacts_p1 = () =>{
                 "a",
                 {
                     style:"height:fit-content;width:fit-content;",
-                    href:"#"
+                    href:"https://t.me/kekethefrog_Erc20"
                 },
                 [
                     __c("div" , {style:"height:70px;min-width:70px;border-radius:50%;border:4px solid #000;background-image:url(./assets/tel.png);"},[],
